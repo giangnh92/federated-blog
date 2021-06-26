@@ -12,6 +12,8 @@ import { getHostName } from '../utils/url';
 import { excerpt, minimum as minimumStringLength } from '../utils/string';
 import { RoundedPanel } from '../components/RoundedPane';
 
+console.log('test eslint');
+
 const FEEDS = [
   'https://thefullsnack.com/rss',
   'https://zerox-dg.github.io/blog/rss.xml',
